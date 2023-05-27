@@ -293,22 +293,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/sm7325-common/proprietary/vendor/firmware/qca6750/qdss_trace_config.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/qca6750/qdss_trace_config.cfg \
     vendor/samsung/sm7325-common/proprietary/vendor/firmware/qca6750/regdb.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/qca6750/regdb.bin \
     vendor/samsung/sm7325-common/proprietary/vendor/firmware/wlan/qca_cld/qca6750/WCNSS_qcom_cfg.ini:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/qca_cld/qca6750/WCNSS_qcom_cfg.ini \
-    vendor/samsung/sm7325-common/proprietary/vendor/firmware/wpss.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/wpss.b00 \
-    vendor/samsung/sm7325-common/proprietary/vendor/firmware/wpss.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/wpss.b01 \
-    vendor/samsung/sm7325-common/proprietary/vendor/firmware/wpss.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/wpss.b02 \
-    vendor/samsung/sm7325-common/proprietary/vendor/firmware/wpss.b03:$(TARGET_COPY_OUT_VENDOR)/firmware/wpss.b03 \
-    vendor/samsung/sm7325-common/proprietary/vendor/firmware/wpss.b04:$(TARGET_COPY_OUT_VENDOR)/firmware/wpss.b04 \
-    vendor/samsung/sm7325-common/proprietary/vendor/firmware/wpss.b05:$(TARGET_COPY_OUT_VENDOR)/firmware/wpss.b05 \
-    vendor/samsung/sm7325-common/proprietary/vendor/firmware/wpss.b06:$(TARGET_COPY_OUT_VENDOR)/firmware/wpss.b06 \
-    vendor/samsung/sm7325-common/proprietary/vendor/firmware/wpss.b07:$(TARGET_COPY_OUT_VENDOR)/firmware/wpss.b07 \
-    vendor/samsung/sm7325-common/proprietary/vendor/firmware/wpss.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/wpss.mdt \
-    vendor/samsung/sm7325-common/proprietary/vendor/firmware/yupik_ipa_fws.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/yupik_ipa_fws.b00 \
-    vendor/samsung/sm7325-common/proprietary/vendor/firmware/yupik_ipa_fws.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/yupik_ipa_fws.b01 \
-    vendor/samsung/sm7325-common/proprietary/vendor/firmware/yupik_ipa_fws.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/yupik_ipa_fws.b02 \
-    vendor/samsung/sm7325-common/proprietary/vendor/firmware/yupik_ipa_fws.b03:$(TARGET_COPY_OUT_VENDOR)/firmware/yupik_ipa_fws.b03 \
-    vendor/samsung/sm7325-common/proprietary/vendor/firmware/yupik_ipa_fws.b04:$(TARGET_COPY_OUT_VENDOR)/firmware/yupik_ipa_fws.b04 \
-    vendor/samsung/sm7325-common/proprietary/vendor/firmware/yupik_ipa_fws.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/yupik_ipa_fws.elf \
-    vendor/samsung/sm7325-common/proprietary/vendor/firmware/yupik_ipa_fws.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/yupik_ipa_fws.mdt \
     vendor/samsung/sm7325-common/proprietary/vendor/gpu/kbc/sequence_manifest.bin:$(TARGET_COPY_OUT_VENDOR)/gpu/kbc/sequence_manifest.bin \
     vendor/samsung/sm7325-common/proprietary/vendor/gpu/kbc/unified_kbcs_32.bin:$(TARGET_COPY_OUT_VENDOR)/gpu/kbc/unified_kbcs_32.bin \
     vendor/samsung/sm7325-common/proprietary/vendor/gpu/kbc/unified_kbcs_64.bin:$(TARGET_COPY_OUT_VENDOR)/gpu/kbc/unified_kbcs_64.bin \
